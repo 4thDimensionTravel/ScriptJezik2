@@ -1,0 +1,14 @@
+    button {
+        background-color: transparent;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+    }
+    
+    #logo {
+        width: 100px;
+        height: auto;
+    }
+
+    
+    
